@@ -37,5 +37,5 @@ Each entry in the dataset should follow this format:
   "url": "https://t.me/channel_username",
   "category": "tech / news / crypto / memes / etc",
   "language": "en / ua / ru / etc",
-  "description": "Short description of the channel"
+  "description": "Short description of the channel(optional)"
 }
