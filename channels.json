@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Telegram News",
+    "url": "https://t.me/telegram",
+    "category": "news",
+    "language": "en",
+    "description": "Official Telegram news and updates"
+  },
+  {
+    "name": "Cointelegraph",
+    "url": "https://t.me/cointelegraph",
+    "category": "crypto",
+    "language": "en",
+    "description": "Crypto news and market updates"
+  },
+  {
+    "name": "NY Times (mirror feeds)",
+    "url": "https://t.me/nytimes",
+    "category": "news",
+    "language": "en",
+    "description": "News content mirrors from NYT"
+  }
+]
